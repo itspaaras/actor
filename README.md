@@ -1,0 +1,2 @@
+# actor
+about thier details
